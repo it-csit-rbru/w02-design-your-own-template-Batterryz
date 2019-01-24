@@ -4,5 +4,5 @@
 ## email 6014421002@rbru.ac.th
 
 [web stie]
-(http://stu2.rbru.ac.th/~s6014421002)
+(http://stu2.rbru.ac.th/~s6014421002/index.html)
 
