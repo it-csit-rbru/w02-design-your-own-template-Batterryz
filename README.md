@@ -3,5 +3,5 @@
 ## Bat Chanthimatorn
 
 [web stie]
-(http://stu2.rbru.ac.th/~s6014421002/photo/index1.html)
+(http://stu2.rbru.ac.th/~s6014421002/photo/index.html)
 
